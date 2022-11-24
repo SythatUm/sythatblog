@@ -12,3 +12,11 @@ category: "Detail"
 <img src='https://github.com/SythatUm/sythatblog_pictures/blob/main/4.jpg?raw=true' />
 
 <img src='https://github.com/SythatUm/sythatblog_pictures/blob/main/5.jpg?raw=true' />
+
+<img src='https://github.com/SythatUm/sythatblog_pictures/blob/main/6.jpg?raw=true' />
+
+<img src='https://github.com/SythatUm/sythatblog_pictures/blob/main/7.jpg?raw=true' />
+
+<img src='https://github.com/SythatUm/sythatblog_pictures/blob/main/8.jpg?raw=true' />
+
+<img src='https://github.com/SythatUm/sythatblog_pictures/blob/main/9.jpg?raw=true' />
