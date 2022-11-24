@@ -11,4 +11,5 @@ category: "Detail"
 
 <img src='https://github.com/linuxdotexe/nordic-wallpapers/raw/master/wallpapers/ign-0008.png' />
 
+<img src='https://github.com/SythatUm/sythatblog_pictures/blob/main/4.jpg?raw=true' />
 
