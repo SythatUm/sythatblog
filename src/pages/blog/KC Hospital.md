@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogLayout.astro"
 
-title: "# ឯកឧត្តម គីមសួរ ភីរុណ ជួបសំណេះសំណាលជាមួយសមាគមន៍សាសនាចក្រ នៃពួកបរិសុទ្ធថ្ងៃចុងក្រោយ"
+title: "ឯកឧត្តម គីមសួរ ភីរុណ ជួបសំណេះសំណាលជាមួយសមាគមន៍សាសនាចក្រ នៃពួកបរិសុទ្ធថ្ងៃចុងក្រោយ"
 publishDate: "2022-11-11T11:39:36.050Z"
 image: "https://github.com/SythatUm/sythatblog_pictures/blob/main/1.jpg?raw=true"
 category: "Detail"
