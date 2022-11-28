@@ -3,7 +3,7 @@ layout: "../../layouts/BlogLayout.astro"
 
 title: "ឯកឧត្តម គីមសួរ ភីរុណ ជួបសំណេះសំណាលជាមួយសាសនាចក្រនៃព្រះយេស៊ូវគ្រីស្ទ នៃពួកបរិសុទ្ធថ្ងៃចុងក្រោយ"
 publishDate: "2022-11-11T11:39:36.050Z"
-image: "https://github.com/KCHospital/picture/blob/main/5.jpg?raw=true"
+image: "https://github.com/SythatUm/sythatblog_pictures/blob/main/1.jpg?raw=true"
 category: "Please Click here for Detail"
 ---
 
